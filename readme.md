@@ -139,4 +139,4 @@ At this point your load balancer should start picking up the healthy host and yo
 
 ### Viewing our PHP page
 
-If you visit http://<your loadbalancer public dns>/index.php you should see a phpinfo page showing PHP 7.3.8
+If you visit `http://<your loadbalancer public dns>/index.php` you should see a phpinfo page showing PHP 7.3.8
